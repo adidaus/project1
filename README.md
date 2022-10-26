@@ -1,1 +1,1 @@
-# Wikipedia-like online encyclopedia.
+## Wikipedia-like online encyclopedia using Django.
